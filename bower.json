@@ -1,20 +1,10 @@
 {
   "name": "bpg-banner",
   "description": "BPG Banner Web Font",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-banner"],
   "main": [
-    "css/bpg-banner.css",
-    "css/bpg-banner.min.css",
-    "css/bpg-banner.ie.css",
-    "css/bpg-banner.ie.min.css",
-    "css/bpg-banner.legacy.css",
-    "css/bpg-banner.legacy.min.css",
-    "fonts/bpg-banner-webfont.ttf",
-    "fonts/bpg-banner-webfont.woff",
-    "fonts/bpg-banner-webfont.woff2",
-    "fonts/bpg-banner-webfont.eot",
-    "fonts/bpg-banner-webfont.svg"
+    "css/bpg-banner.css"
   ],
-  "version": "0.0.3",
   "homepage": "https://github.com/web-fonts/bpg-banner",
   "authors": [
     "Lado Lomidze <lado.lomidze@gmail.com>"
@@ -29,6 +19,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "README.md",
+    "font.json"
   ]
 }
