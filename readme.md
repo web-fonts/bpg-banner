@@ -2,9 +2,7 @@
 
 BPG Banner Web Font Package.
 
-
 ## Installation
-
 
 Run the following command to install the font with [Bower](http://bower.io) (recommended):
 
@@ -14,14 +12,13 @@ $ bower install bpg-banner --save
 
 Or install it manually, by [downloading the archive](https://github.com/web-fonts/bpg-banner/archive/master.zip) and placeing `/css/` and `/fonts/` directories to your project.
 
-
 ## Usage
 
 BPG Banner web font package comes with 3 different css files:
 
-* [css/bpg-banner.css](https://github.com/web-fonts/bpg-banner/tree/master/css/bpg-banner.css) - Modern way of including web fonts on web page, which contains only: `.woff` and `.woff2` files (see the browser support below).
-* [css/bpg-banner.ie.css](https://github.com/web-fonts/bpg-banner/tree/master/css/bpg-banner.ie.css) - IE6-8, which contains: `.eot` font file only.
-* [css/bpg-banner.legacy.css](https://github.com/web-fonts/bpg-banner/tree/master/css/bpg-banner.legacy.css) - [Bulletproof @font-face syntax](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/), which contains: `.eot`, `.ttf`, `.svg`, `.woff` and `.woff2` files.
+* [bpg-banner.css](https://github.com/web-fonts/bpg-banner/tree/master/css/bpg-banner.css) - Modern way of including web fonts on web page, which contains only: `.woff` and `.woff2` files (see the browser support below).
+* [bpg-banner.ie.css](https://github.com/web-fonts/bpg-banner/tree/master/css/bpg-banner.ie.css) - IE6-8, which contains: `.eot` font file only.
+* [bpg-banner.legacy.css](https://github.com/web-fonts/bpg-banner/tree/master/css/bpg-banner.legacy.css) - [Bulletproof @font-face syntax](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax/), which contains: `.eot`, `.ttf`, `.svg`, `.woff` and `.woff2` files.
 
 ### Modern Syntax (Recommended)
 
@@ -61,7 +58,7 @@ Finally, after including font files to your project, place the following code to
 
 ```css
 body {
-font-family: 'BPG Banner', sans-serif;
+    font-family: 'BPG Banner', sans-serif;
 }
 ```
 
@@ -69,9 +66,9 @@ font-family: 'BPG Banner', sans-serif;
 
 **Modern Syntax**, which contains only: `.woff` and `.woff2` files is supported in the following browsers:
 
-| Chrome | Safari | Firefox | Opera | IE | Android |  iOS  |
-| ------ | ------ | ------- | ----- | -- | ------- | ----- |
-| 5+     | 5.1+   | 3.6+    | 11.5+ | 9+ | 4.4+    | 5.1+  |
+| Chrome | Safari | Firefox | Opera | IE   | Android |  iOS  |
+| ------ | ------ | ------- | ----- | ---- | ------- | ----- |
+| 5+     | 5.1+   | 3.6+    | 11.5+ | 9+   | 4.4+    | 5.1+  |
 
 **IE Syntax** supports only IE6-8.
 
