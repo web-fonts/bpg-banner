@@ -1,0 +1,34 @@
+{
+  "name": "bpg-banner",
+  "description": "BPG Banner Web Font",
+  "main": [
+    "css/bpg-banner.css",
+    "css/bpg-banner.min.css",
+    "css/bpg-banner.ie.css",
+    "css/bpg-banner.ie.min.css",
+    "css/bpg-banner.legacy.css",
+    "css/bpg-banner.legacy.min.css",
+    "fonts/bpg-banner-webfont.ttf",
+    "fonts/bpg-banner-webfont.woff",
+    "fonts/bpg-banner-webfont.woff2",
+    "fonts/bpg-banner-webfont.eot",
+    "fonts/bpg-banner-webfont.svg"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/web-fonts/bpg-banner",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/bpg-banner.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
