@@ -5,5 +5,5 @@
          url('../fonts/bpg-banner-webfont.woff2') format('woff2'), /* Super Modern Browsers */
          url('../fonts/bpg-banner-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('../fonts/bpg-banner-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/bpg-banner-webfont.svg#svgFontFix') format('svg'); /* Legacy iOS */
+         url('../fonts/bpg-banner-webfont.svg#bpg_bannerregular') format('svg'); /* Legacy iOS */
 }
