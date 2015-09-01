@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-banner.git"
   },
-  "license": "CC-BY-NC-ND-4.0",
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
   "ignore": [
     "**/.*",
     "node_modules",
