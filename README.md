@@ -2,7 +2,7 @@
 
 [![Bower](https://img.shields.io/bower/v/bpg-banner.svg)](http://bower.io/search/?q=bpg-banner)
 [![npm](https://img.shields.io/npm/v/bpg-banner.svg)](https://www.npmjs.com/package/bpg-banner)
-![Author](https://img.shields.io/badge/Font_Author-Besarion_Gugushvili-blue.svg)
+[![Author](https://img.shields.io/badge/Font_Author-Besarion_Gugushvili-blue.svg)](https://github.com/web-fonts/bpg-banner)
 
 BPG Banner Web-Font Package.
 
