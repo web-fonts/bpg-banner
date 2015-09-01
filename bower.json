@@ -1,7 +1,7 @@
 {
   "name": "bpg-banner",
   "description": "BPG Banner Web-Font Package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-banner"],
   "main": [
     "css/bpg-banner.css"

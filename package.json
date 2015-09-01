@@ -1,6 +1,6 @@
 {
   "name": "bpg-banner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BPG Banner Web-Font Package",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-banner"],
   "main": "css/bpg-banner.css",
@@ -13,5 +13,5 @@
   "licenses": [{
     "type": "CC-BY-NC-ND 4.0",
     "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-  }],
+  }]
 }
